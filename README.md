@@ -68,7 +68,6 @@ Install all at once:
 ```bash
 pip install streamlit pandas numpy scikit-learn xgboost shap matplotlib openpyxl pyarrow
 ```
-
 ---
 
 ## Supported Data Formats
@@ -170,8 +169,18 @@ self-service-automl-analytics/
 ```
 ---
 
+## References
+
+IBM Corporation. (n.d.). Telco customer churn [Dataset]. IBM Cognos Analytics. https://www.ibm.com/docs/en/cognos-analytics/12.0.x?topic=samples-telco-customer-churn
+
+Almeida, T. A., & Gómez Hidalgo, J. M. (2011). SMS spam collection [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5CC84
+
+De Cock, D. (2011). Ames, Iowa: Alternative to the Boston housing data as an end of semester regression project. Journal of Statistics Education, 19(3), 1–15. https://doi.org/10.1080/10691898.2011.11889627
+
 ## Vanderbilt M.S. Data Science — Capstone Project (DS-5999)
-Kunyang Ji · April 2026 · Instructor: Jesse Blocher
+Author: Kunyang Ji 
+Instructor: Jesse Blocher
+April 2026
 
 
 
