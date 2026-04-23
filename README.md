@@ -148,25 +148,27 @@ When a text column is provided for Text Classification tasks, the app automatica
 
 Three demonstration datasets are included in the `/data` folder:
 
+```
 | Task | Dataset | Source |
 |---|---|---|
 | Churn Prediction | `Customer_Churn.csv` | IBM Telco Customer Churn (n=7,043) |
 | Text Classification | `mail_data.csv` | SMS Spam Collection — Almeida & Gómez Hidalgo, UCI MLR (n=5,574) |
 | Value Prediction | `housing.csv` | Ames Housing — De Cock (2011), *Journal of Statistics Education* (n=2,930) |
-
+```
 ---
 
 ## Project Structure
 
+```
 self-service-automl-analytics/
 ├── capstone.py          # Main application (single-file Streamlit app)
 ├── requirements.txt     # Python dependencies
 ├── README.md
 └── data/
-├── Customer_Churn.csv
-├── mail_data.csv
-└── housing.csv
-
+    ├── Customer_Churn.csv
+    ├── mail_data.csv
+    └── housing.csv
+```
 ---
 
 ## Vanderbilt M.S. Data Science — Capstone Project (DS-5999)
