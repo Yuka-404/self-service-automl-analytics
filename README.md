@@ -1,7 +1,7 @@
 # Self-Service AutoML Analytics App
 
 
-A no-code, browser-based machine learning platform for business analytics. Upload a dataset, pick a task, and train and compare multiple ML models — no programming required.
+This capstone project addresses that gap directly. The Self-Service AutoML Analytics App is a browser-based, no-code machine learning platform built with Streamlit and scikit-learn, designed specifically for users without a data science background. The application enables anyone to upload a dataset, select a prediction task, and immediately train, compare, and interpret multiple machine learning models through an intuitive point-and-click interface — no programming required. 
 
 Built with [Streamlit](https://streamlit.io/) · [scikit-learn](https://scikit-learn.org/) · [XGBoost](https://xgboost.readthedocs.io/) · [SHAP](https://shap.readthedocs.io/)
 
