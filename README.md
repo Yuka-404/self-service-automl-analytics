@@ -179,7 +179,9 @@ De Cock, D. (2011). Ames, Iowa: Alternative to the Boston housing data as an end
 
 ## Vanderbilt M.S. Data Science — Capstone Project (DS-5999)
 Author: Kunyang Ji 
+
 Instructor: Jesse Blocher
+
 April 2026
 
 
